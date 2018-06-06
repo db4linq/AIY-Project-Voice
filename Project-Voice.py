@@ -11,8 +11,8 @@ import logging
 import time
 
 appid = 'SmartLightIOT'
-gearkey = '9u1D5Gt7ZBlzunf'
-gearsecret =  'XQ5eOU8QWrhkcSOWJKQAWbT3E'
+gearkey = 'xxxxxxxxxx'
+gearsecret =  'xxxxxxxxxxxxxxx'
 
 microgear.create(gearkey,gearsecret,appid,{'debugmode': True})
 
